@@ -1,0 +1,19 @@
+# Python 관련 파일
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+
+# 운영체제 관련 파일
+.DS_Store
+Thumbs.db
+
+# 크롬 드라이버 및 바이너리 파일
+chromedriver
+
+# 생성되는 엑셀 파일
+bottega_products.xlsx
